@@ -3,6 +3,15 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
+.banner {
+    height: 60vh;
+    overflow: hidden;
+}
+
+.banner spline-viewer {
+    transform: scale(1.5);
+}
+
 .blurb h2 {
     color: #EA1C2C;
     font-weight: 100;
